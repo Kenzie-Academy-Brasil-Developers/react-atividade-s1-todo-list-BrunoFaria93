@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  height: 100vh;
+
+}
+.form input{
+  width: 240px;
+  border-radius: 5px;
+  margin-right: 30px;
+  padding: 15px;
+}
+.form h1{
+  margin: 0;
+  padding: 50px;
+  font-size: 3rem;
+  color: whitesmoke;
+}
+.form button{
+  
+  margin-right: 30px;
+  padding: 5px 10px;
+  background-color: rgb(12, 165, 71);
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: whitesmoke;
+  border-radius: 10px;
+  border: 1px solid rgb(12, 104, 19);
+}
+.form button:hover{
+  background-color: rgb(16, 117, 24);
+  cursor: pointer;
+}
+.ul{
+  list-style: none;
+  color: whitesmoke;
+  font-size: 1.6rem;
+}
+
+.button-2{
+
+  margin-right: 30px;
+  padding: 5px 10px;
+  background-color: tomato;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: whitesmoke;
+  border-radius: 10px;
+  border: 2px solid whitesmoke;
+}
+
+.ul li{
+  width: 480px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.ul li:hover{
+  background-color: #1b1e25;
+  border: 1px solid whitesmoke;
+}
+.button-2:hover{
+  background-color: rgb(158, 60, 42);
+  cursor: pointer;
+}
+
